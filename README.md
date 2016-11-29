@@ -7,8 +7,8 @@ Le projet met en oeuvre les objets tels que la Pile et la File.
 
 Contenu :
 - Sujet.pdf : Sujet du TP
-- Dossier de réalisation : Présentation, description, comportement, sources
-- Sources.zip : le projet Javaproduit sous Eclipse
+- Dossier de réalisation.docx : Présentation, description, comportement, sources
+- Sources.zip : le projet Java produit sous Eclipse
 
 
   
